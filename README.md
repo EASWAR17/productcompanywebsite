@@ -25,7 +25,7 @@ Publish the website in the given URL.
 
 # PROGRAM :
 ## Layout:
-## Home Page:
+Home Page:
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -76,7 +76,7 @@ Publish the website in the given URL.
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 Anycook Private Ltd., Developed by: Pavan Kishore M.
+        Copyright &#169; 2021 Anycook Private Ltd., Developed by: EASWAR
       </div>
     </div>
   </body>
@@ -95,105 +95,62 @@ Products:
       <div class="banner"></div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
-        <div class="menuitemselected">
-          <a href="/static/products.html">Products</a>
-        </div>
-        <div class="menuitem"><a href="/static/people.html">People</a></div>
+        <div class="menuitem"><a href="/static/products.html">Products</a></div>
+        <div class="menuitemselected"><a href="/static/people.html">People</a></div>
         <div class="menuitem"><a href="/static/contactus.html">Contact Us</a></div>
       </div>
       <div class="content">
         <div class="productcontent">    
-          <h1>Our Premium Products :</h1>
-          <div class="productitems">
-              <div class="productitem"> 
-                  <div class="itemimage">
-                  <img src="/static/img/pro1.jpg" alt="product image">
-                  </div>
-                  <div class="itemname">CUP CAKE</div>
-                  <div class="itemprice">Price: Rs.75 </div>
-              </div>
-              <div class="productitem"> 
-                  <div class="itemimage">
-                  <img src="/static/img/pro2.jpg"  alt="product image">
-                  </div>
-                  <div class="itemname">STEP CAKE</div>
-                  <div class="itemprice">Price: Rs.700 </div>
-              </div>
-              <div class="productitem"> 
-                <div class="itemimage">
-                <img src="/static/img/pro3.jpg" alt="product image">
+            <h1>Best chefs in the world</h1>
+            <div class="productitems">
+                <div class="productitem"> 
+                    <div class="itemimage">
+                    <img src="C:\Users\91979\OneDrive\Desktop\pics\sanji.jpg" alt="product image">
+                    </div>
+                    <div class="itemname">chef sanji</div>
+                    <div class="itemprice">Head chef</div>
                 </div>
-                <div class="itemname">NORMAL CAKE</div>
-                <div class="itemprice">Price: Rs.250 </div>
-            </div>
-            <div class="productitem"> 
-              <div class="itemimage">
-              <img src="/static/img/pro4.jpg" alt="product image">
-              </div>
-              <div class="itemname">CHOCO LAVA CAKE</div>
-              <div class="itemprice">Price: Rs.500</div>
+                <div class="productitem"> 
+                    <div class="itemimage">
+                    <img src="C:\Users\91979\Downloads\soma.jpg"  alt="product image">
+                    </div>
+                    <div class="itemname">chef soma</div>
+                    <div class="itemprice">Head chef</div>
+                </div>
+                <div class="productitem"> 
+                    <div class="itemimage">
+                    <img src="C:\Users\91979\Downloads\gordan.jpg"  alt="product image">
+                    </div>
+                    <div class="itemname">chef gordan</div>
+                    <div class="itemprice">one of the best chef in the world</div>
+                </div>
+                <div class="productitem"> 
+                    <div class="itemimage">
+                    <img src="C:\Users\91979\Downloads\kunal.jpg"  alt="product image">
+                    </div>
+                    <div class="itemname">chef kunal</div>
+                    <div class="itemprice">senior chef</div>
+                </div>
+                <div class="productitem"> 
+                    <div class="itemimage">
+                    <img src="C:\Users\91979\OneDrive\Desktop\pics\rin.jpg"  alt="product image">
+                    </div>
+                    <div class="itemname">chef rinn</div>
+                    <div class="itemprice">working in bakery</div>
+                </div>
+                <div class="productitem"> 
+                    <div class="itemimage">
+                    <img src="C:\Users\91979\Downloads\jamo.jpg"  alt="product image">
+                    </div>
+                    <div class="itemname">chef jamo</div>
+                    <div class="itemprice">Assistant Baker</div>
+                </div>
+
           </div>
-          <div class="productitem"> 
-            <div class="itemimage">
-            <img src="/static/img/pro5.jpg" alt="product image">
-            </div>
-            <div class="itemname">BLACK FOREST</div>
-            <div class="itemprice">Price: Rs. 800</div>
         </div>
-        <div class="productitem"> 
-          <div class="itemimage">
-          <img src="/static/img/pro6.jpg" alt="product image">
-          </div>
-          <div class="itemname">BREAD</div>
-          <div class="itemprice">Price: RS.50 </div>
-      </div>
-      <div class="productitem"> 
-        <div class="itemimage">
-        <img src="/static/img/pro7.jpg" alt="product image">
-        </div>
-        <div class="itemname">MODEL CAKES</div>
-        <div class="itemprice">Price: Rs.900 </div>
-    </div>
-    <div class="productitem"> 
-      <div class="itemimage">
-      <img src="/static/img/pro8.jpg" alt="product image">
-      </div>
-      <div class="itemname">PIECE CAKE</div>
-      <div class="itemprice">Price: Rs.50 </div>
-  </div>
-  <div class="productitem"> 
-    <div class="itemimage">
-    <img src="/static/img/pro9.jpg" alt="product image">
-    </div>
-    <div class="itemname">BUNS</div>
-    <div class="itemprice">Price: Rs.30 </div>
-</div>
-<div class="productitem"> 
-  <div class="itemimage">
-  <img src="/static/img/pro10.jpg" alt="product image">
-  </div>
-  <div class="itemname">SWEETS</div>
-  <div class="itemprice">Price: Rs.500/KG </div>
-</div>
-<div class="productitem"> 
-  <div class="itemimage">
-  <img src="/static/img/pro11.jpg" alt="product image">
-  </div>
-  <div class="itemname">CHOCOLATES</div>
-  <div class="itemprice">Price: Rs.100/KG </div>
-</div>
-<div class="productitem"> 
-  <div class="itemimage">
-  <img src="/static/img/pro12.jpg" alt="product image">
-  </div>
-  <div class="itemname">SPECIAL COFFEE</div>
-  <div class="itemprice">Price: Rs.150 </div>
-</div>
-          </div>
-          </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2021 Anycook Private Ltd., Developed by: Pavan Kishore M.
+        Copyright &#169; 2021 Anycook Private Ltd., Developed by: EASWAR
       </div>
     </div>
   </body>
@@ -222,42 +179,42 @@ People:
             <div class="productitems">
                 <div class="productitem"> 
                     <div class="itemimage">
-                    <img src="/static/img/sanji.jpg" alt="product image">
+                    <img src="C:\Users\91979\OneDrive\Desktop\pics\sanji.jpg" alt="product image">
                     </div>
                     <div class="itemname">chef sanji</div>
                     <div class="itemprice">Head chef</div>
                 </div>
                 <div class="productitem"> 
                     <div class="itemimage">
-                    <img src="/static/img/soma.jpg"  alt="product image">
+                    <img src="C:\Users\91979\Downloads\soma.jpg"  alt="product image">
                     </div>
                     <div class="itemname">chef soma</div>
                     <div class="itemprice">Head chef</div>
                 </div>
                 <div class="productitem"> 
                     <div class="itemimage">
-                    <img src="/static/img/gordan.jpg"  alt="product image">
+                    <img src="C:\Users\91979\Downloads\gordan.jpg"  alt="product image">
                     </div>
                     <div class="itemname">chef gordan</div>
                     <div class="itemprice">one of the best chef in the world</div>
                 </div>
                 <div class="productitem"> 
                     <div class="itemimage">
-                    <img src="/static/img/kunal.jpg"  alt="product image">
+                    <img src="C:\Users\91979\Downloads\kunal.jpg"  alt="product image">
                     </div>
-                    <div class="itemname">EMPLOYE</div>
-                    <div class="itemprice">WORKING IN BAKERY</div>
+                    <div class="itemname">chef kunal</div>
+                    <div class="itemprice">senior chef</div>
                 </div>
                 <div class="productitem"> 
                     <div class="itemimage">
-                    <img src="/static/img/rin.jpg"  alt="product image">
+                    <img src="C:\Users\91979\OneDrive\Desktop\pics\rin.jpg"  alt="product image">
                     </div>
-                    <div class="itemname">EMPLOYE</div>
-                    <div class="itemprice">WORKING IN BAKERY</div>
+                    <div class="itemname">chef rinn</div>
+                    <div class="itemprice">working in bakery</div>
                 </div>
                 <div class="productitem"> 
                     <div class="itemimage">
-                    <img src="/static/img/jamo.jpg"  alt="product image">
+                    <img src="C:\Users\91979\Downloads\jamo.jpg"  alt="product image">
                     </div>
                     <div class="itemname">chef jamo</div>
                     <div class="itemprice">Assistant Baker</div>
@@ -267,12 +224,11 @@ People:
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 Anycook Private Ltd., Developed by: Pavan Kishore M.
+        Copyright &#169; 2021 Anycook Private Ltd., Developed by: EASWAR
       </div>
     </div>
   </body>
 </html>
-
 Contact Us:
 <!DOCTYPE html>
 <html lang="en">
@@ -307,7 +263,7 @@ Contact Us:
     </div>
     </div>
       <div class="footer">
-        Copyright &#169; 2021 Anycook Private Ltd., Developed by: Pavan Kishore M.
+        Copyright &#169; 2021 Anycook Private Ltd., Developed by: EASWAR
       </div>
     </div>
   </body>
